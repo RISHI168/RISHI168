@@ -1,37 +1,37 @@
 # Hi, I'm Rishi 👋
 
-**Founder-Operator. AI strategist. Writing about the forces reshaping how technology gets built, sold, and governed.**
+**I think about what happens when intelligence becomes infrastructure — who controls it, who gets access, and what it does to the humans using it.**
 
-I'm Co-founder & CEO of [The TopScout](https://thetopscout.com) and building [Crushed Studios](https://github.com/RISHI168/crushed-studios) — an AI-native media production platform. I write [Tech Fondue](https://techfondue.substack.com), a biweekly newsletter read by 600+ subscribers on the geopolitics of AI, open vs. closed ecosystems, and what happens when intelligence becomes infrastructure.
+I'm Co-founder & CEO of [The TopScout](https://thetopscout.com), building [Crushed Studios](https://github.com/RISHI168/crushed-studios), and writing [Tech Fondue](https://techfondue.substack.com) — a newsletter where I try to untangle the second-order effects of AI that the launch announcements leave out.
 
-My work lives at the intersection of **brand strategy, AI product architecture, and the operational systems** that hold both together. Before AI, I spent a decade in advertising, influencer marketing, and enterprise brand-building — which is why I think about AI products the way a strategist thinks about markets: who wins, who gets displaced, and what the second-order effects look like.
+Before all of this, I spent a decade in advertising, brand strategy, and influencer marketing. That background shapes how I look at AI: not as a model benchmarking exercise, but as a market-shaping force with winners, displaced, and consequences that compound quietly.
+
+---
+
+### What I'm Interested In
+
+**The geopolitics of intelligence infrastructure.** Where the data centers sit, whose data they ingest, and whether learning stays local or leaks global. I wrote a [deep-dive on AI sovereignty](https://techfondue.substack.com/p/the-geography-of-intelligence) tracing the $3 trillion infrastructure supercycle, the CLOUD Act tension, and why AI is traveling the internet's path from borderless to bordered — in a fraction of the time.
+
+**What AI optimization does to human judgment.** Anthropic published a landmark study on disempowerment patterns — users voluntarily ceding their own decision-making to systems optimized for satisfaction. I [wrote about the satisfaction paradox](https://techfondue.substack.com/p/the-quiet-coup-ai-is-gradually-replacing): the finding that users rate disempowering interactions *higher* than autonomy-preserving ones, and why that creates a structural trap in how we train these systems.
+
+**Open vs. closed ecosystems and who gets to build.** NVIDIA's Nemotron Coalition, the collapsing cost gap between open and closed models, and what it means when a Qwen model matches Claude Sonnet at 97% less cost. I [covered the coalition](https://techfondue.substack.com/p/the-queens-gambit) and the intelligence divide forming between those who can unlock the full open stack and those renting a window seat on a closed platform.
+
+**The pilot-to-production gap in enterprise AI.** Why 30%+ of generative AI projects die after proof-of-concept. Data integration, cascading agent failures, hallucination in high-stakes environments, and the governance vacuum. I [dissected OpenAI's Frontier strategy](https://techfondue.substack.com/p/the-palantir-playbook-scaled-globally) through this lens — the Palantir playbook at scale, and whether FDEs and McKinsey can actually compress a decade of technical debt.
 
 ---
 
 ### What I'm Building
 
-- 🎬 **Crushed Studios** — Enterprise AI media production. Multi-agent film pipeline with a 6-layer prompt assembly engine, continuity engine for cross-scene state, and 230+ configurable parameters. Think: what if post-production had an operating system.
-- 🏗️ **AI Product Lifecycle Framework** — 9 coordinated AI agents + 50 skill definitions spanning product, engineering, ML, and responsible AI. Open-source blueprints for teams shipping AI products end-to-end.
-- 📐 **Enterprise Vibecoder SDLC** — A development framework for teams that build fast with AI assistance but need the result to survive production. Monolith boundaries, LLM-specific patterns, CI/CD gates.
+- 🎬 **[Crushed Studios](https://github.com/RISHI168/crushed-studios)** — An enterprise AI media production platform. Multi-agent film pipeline with a 6-layer prompt assembly engine, cross-scene continuity tracking, and 230+ configurable parameters. The thesis: post-production needs an operating system, not more point tools.
 
-### What I Write About
+- 🏗️ **[AI Product Lifecycle Framework](https://github.com/RISHI168/Claude-SWE-Agents-Skills)** — 9 coordinated AI agents + 50 skill definitions spanning product management, engineering, ML, security, and responsible AI. Open-source blueprints for the operational layer most teams skip.
 
-I publish [Tech Fondue](https://techfondue.substack.com) — deep dives on the macro forces shaping AI. Recent topics include NVIDIA's open AI bet and what it means for who gets to build the future, why AI is quietly replacing human judgment (and why we're rating it five stars), the geopolitics of data centers and intelligence infrastructure, and the frontier of biointelligence. I'm interested in the questions that sit upstream of product: power, access, diffusion, and the economics of intelligence.
+- 📐 **[Enterprise Vibecoder SDLC](https://github.com/RISHI168/enterprise-vibecoder-sdlc)** — A development framework for teams that build fast with AI but need the result to survive production. Draw the boundary map before you write a line. A monolith with internal service boundaries is already halfway to microservices.
 
 ---
 
-### Featured Repos
+### Where I Write & Think
 
-| Repo | What It Is |
-|------|-----------|
-| [**Claude-SWE-Agents-Skills**](https://github.com/RISHI168/Claude-SWE-Agents-Skills) | 9 coordinated AI agents + 50 skill definitions for the full AI product lifecycle — from ideation to production monitoring |
-| [**enterprise-vibecoder-sdlc**](https://github.com/RISHI168/enterprise-vibecoder-sdlc) | SDLC for AI-native dev teams — boundary-first architecture, LLM patterns, and CI/CD gates that prevent vibes from reaching production |
-| [**crushed-studios**](https://github.com/RISHI168/crushed-studios) | AI media production platform — multi-agent film pipeline with continuity engine and prompt assembly |
-
----
-
-### Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/rishibhattacharjee) — 7,400+ followers, where I post about AI strategy, open vs. closed ecosystems, and building in public
-- ✍️ [Tech Fondue on Substack](https://techfondue.substack.com) — biweekly deep dives on the geopolitics and economics of AI
-- 📧 rishi@thetopscout.com
+- ✍️ **[Tech Fondue](https://techfondue.substack.com)** — Biweekly deep dives on AI geopolitics, sovereignty, disempowerment, open vs. closed ecosystems, and enterprise AI deployment reality. Reading the silver linings of capitalistic tech.
+- 💼 **[LinkedIn](https://linkedin.com/in/rishibhattacharjee)** — Shorter-form thinking on AI economics, builder patterns, and the occasional contrarian take on what the industry is getting wrong.
+- 📧 **rishi@thetopscout.com**
