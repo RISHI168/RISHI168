@@ -24,7 +24,7 @@ Before all of this, I spent a decade in advertising, brand strategy, and influen
 
 - 🎬 **[Crushed Studios](https://github.com/RISHI168/crushed-studios)** — An enterprise AI media production platform. Multi-agent film pipeline with a 6-layer prompt assembly engine, cross-scene continuity tracking, and 230+ configurable parameters. The thesis: post-production needs an operating system, not more point tools.
 
-- 🏗️ **[AI Product Lifecycle Framework](https://github.com/RISHI168/Claude-SWE-Agents-Skills)** — 9 coordinated AI agents + 50 skill definitions spanning product management, engineering, ML, security, and responsible AI. Open-source blueprints for the operational layer most teams skip.
+- 🏗️ **[AI Product Lifecycle Framework](https://github.com/RISHI168/ai-product-lifecycle)** — 9 coordinated AI agents + 50 skill definitions spanning product management, engineering, ML, security, and responsible AI. Open-source blueprints for the operational layer most teams skip.
 
 - 📐 **[Enterprise Vibecoder SDLC](https://github.com/RISHI168/enterprise-vibecoder-sdlc)** — A development framework for teams that build fast with AI but need the result to survive production. Draw the boundary map before you write a line. A monolith with internal service boundaries is already halfway to microservices.
 
